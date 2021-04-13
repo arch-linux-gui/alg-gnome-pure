@@ -109,10 +109,15 @@ xfsprogs
 xl2tpd
 zsh
 
-xorg
+#Arch Linux GUI KDE GNOME
 gnome
+xorg
 gdm
-calamares
-alg-min-cala-config
-grub
 bash-completion
+networkmanager
+
+#Installer
+grub
+calamares
+alg-gnome-cala-config
+os-prober
