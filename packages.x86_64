@@ -109,7 +109,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI KDE GNOME
+#Arch Linux GUI GNOME
 gnome
 xorg
 gdm
