@@ -121,6 +121,7 @@ gnome-shell-extensions
 gnome-session
 gnome-shell
 gnome-terminal
+gnome-backgrounds
 gvfs
 mutter
 nautilus
