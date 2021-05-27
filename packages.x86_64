@@ -2,7 +2,6 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 alsa-utils
 amd-ucode
-archinstall
 arch-install-scripts
 b43-fwcutter
 base
@@ -49,7 +48,6 @@ linux-firmware
 livecd-sounds
 lsscsi
 lvm2
-lynx
 man-db
 man-pages
 mc
@@ -83,7 +81,6 @@ rsync
 rxvt-unicode-terminfo
 sdparm
 sg3_utils
-sl
 smartmontools
 sof-firmware
 squashfs-tools
@@ -91,15 +88,11 @@ sudo
 syslinux
 systemd-resolvconf
 tcpdump
-terminus-font
-termite-terminfo
 testdisk
-tmux
 udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 vpnc
 wireless-regdb
 wireless_tools
@@ -109,15 +102,32 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI GNOME
-gnome
+#Arch Linux GUI GNOME core
 xorg
 gdm
 bash-completion
 networkmanager
 
+#GNOME Applications
+cheese
+eog
+evince
+gedit
+gnome-clocks
+gnome-control-center
+gnome-keyring
+gnome-screenshot
+gnome-shell-extensions
+gnome-session
+gnome-shell
+gnome-terminal
+gvfs
+mutter
+nautilus
+xdg-user-dirs-gtk
+
 #Installer
 grub
 calamares
-alg-gnome-cala-config
+alg-min-cala-config
 os-prober
