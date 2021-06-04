@@ -122,10 +122,12 @@ gnome-session
 gnome-shell
 gnome-terminal
 gnome-backgrounds
+gnome-software
 gvfs
 mutter
 nautilus
 xdg-user-dirs-gtk
+neofetch
 
 #Installer
 grub
