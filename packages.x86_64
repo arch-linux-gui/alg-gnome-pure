@@ -123,11 +123,13 @@ gnome-shell
 gnome-terminal
 gnome-backgrounds
 gnome-software
+gnome-software-packagekit-plugin
 gvfs
 mutter
 nautilus
 xdg-user-dirs-gtk
 neofetch
+archlinux-appstream-data-pamac
 
 #Installer
 grub

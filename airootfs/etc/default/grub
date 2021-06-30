@@ -57,3 +57,6 @@ GRUB_COLOR_HIGHLIGHT="light-cyan/black"
 
 # Uncomment to make grub stop using submenus
 #GRUB_DISABLE_SUBMENU=y
+
+#New GRUB update disables OS prober by default. We don't want that.
+GRUB_DISABLE_OS_PROBER=false
