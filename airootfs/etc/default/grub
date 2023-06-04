@@ -43,8 +43,7 @@ GRUB_DISABLE_RECOVERY=true
 #GRUB_COLOR_HIGHLIGHT="light-cyan/black"
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
-#This background comes in the gnome flagship edition.
-#GRUB_BACKGROUND="/usr/share/wallpapers/real-wood/real-wood.jpg"
+#GRUB_BACKGROUND=
 #GRUB_THEME=
 
 # Uncomment to get a beep at GRUB start
