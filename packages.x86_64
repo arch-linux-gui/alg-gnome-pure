@@ -129,6 +129,7 @@ xorg
 gdm
 bash-completion
 networkmanager
+alg-welcome
 
 #GNOME Applications
 cheese
